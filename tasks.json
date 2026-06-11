@@ -1,0 +1,50 @@
+[
+    {
+        "file": "auth.cpp",
+        "line": 1,
+        "type": "TODO",
+        "task": "// TODO: Add password hashing"
+    },
+    {
+        "file": "auth.cpp",
+        "line": 2,
+        "type": "FIXME",
+        "task": "// FIXME: Session timeout bug"
+    },
+    {
+        "file": "database.cpp",
+        "line": 1,
+        "type": "HACK",
+        "task": "// HACK: Temporary connection string"
+    },
+    {
+        "file": "database.cpp",
+        "line": 2,
+        "type": "TODO",
+        "task": "// TODO: Add connection pooling"
+    },
+    {
+        "file": "main.cpp",
+        "line": 4,
+        "type": "TODO",
+        "task": "// TODO: Add login validation"
+    },
+    {
+        "file": "main.cpp",
+        "line": 6,
+        "type": "TODO",
+        "task": "// TODO: Add dark mode"
+    },
+    {
+        "file": "main.cpp",
+        "line": 8,
+        "type": "FIXME",
+        "task": "// FIXME: Optimize search algorithm"
+    },
+    {
+        "file": "main.cpp",
+        "line": 10,
+        "type": "HACK",
+        "task": "// HACK: Temporary database connection"
+    }
+]
